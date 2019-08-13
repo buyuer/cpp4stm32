@@ -1,0 +1,2 @@
+HAL-1.24
+freeRTOS-10

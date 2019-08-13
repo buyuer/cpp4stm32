@@ -1,0 +1,15 @@
+/CubeMX/MDK-ARM/
+
+/MDK-ARM/Objects/
+/MDK-ARM/DebugConfig/
+/MDK-ARM/Listings/
+/MDK-ARM/EventRecorderStub.scvd
+/MDK-ARM/JLinkLog.txt
+/MDK-ARM/JLinkSettings.ini
+
+/MDK-ARM-LIB/Objects/
+/MDK-ARM-LIB/DebugConfig/
+/MDK-ARM-LIB/Listings/
+/MDK-ARM-LIB/EventRecorderStub.scvd
+/MDK-ARM-LIB/JLinkLog.txt
+/MDK-ARM-LIB/JLinkSettings.ini
